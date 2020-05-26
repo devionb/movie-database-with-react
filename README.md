@@ -6,5 +6,5 @@ This is the hompage of the Movie Database project.
 ![screenshot of moviedb](image/react-moviedb-1.jpg)
 <br>
 This is a screenshot when you click on a movie.
-![screenshot of moviedb](image/react-moviedb-2.jpg)
+![screenshot of moviedb](image/react-moviebd-2.jpg)
 
